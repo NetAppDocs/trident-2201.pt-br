@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <blocks>
-  <block id="34c4dac14496e9c45d92f345d9392fc8" category="summary">A documentação para versões anteriores do Astra Trident está disponível no caso de você não estar executando a versão mais recente.</block>
-  <block id="ba09ee47d11962c1ccd13d7e1f10e6c5" category="doc">Versões anteriores da documentação</block>
-  <block id="b0f4f0ac7ea6be4c3047dd422c23539b" category="paragraph">Se você não estiver executando o Astra Trident 22,01, a documentação das versões anteriores estará disponível.</block>
-  <block id="cce172403b73af5c2a4e93081affcc7f" category="inline-link">Astra Trident 21,10</block>
-  <block id="606b9e83fb467a43b3065d4fd5037094" category="list-text"><block ref="606b9e83fb467a43b3065d4fd5037094" category="inline-link-rx"></block></block>
   <block id="3d522b99ca94333433532daa23e7ceab" category="summary">Encontre respostas para as perguntas mais frequentes sobre a instalação, configuração, atualização e solução de problemas do Astra Trident.</block>
   <block id="af2a4d2810d86aa0169c117f82682f9a" category="doc">Perguntas frequentes</block>
   <block id="96ab491ef73d5db0cd15f55e1552cc22" category="section-title">Questões gerais</block>
@@ -2064,8 +2059,6 @@
   <block id="2e6ce374ac42de81aea6a3d682b92e33" category="paragraph">As Notas de versão fornecem informações sobre novos recursos, aprimoramentos e correções de bugs na versão mais recente do Astra Trident.</block>
   <block id="e4c4d344a524d21b898e4d04b6539aa7" category="admonition">O<block ref="c67fd1b99934afa248dfeb285a9a4191" prefix=" " category="inline-code"></block> binário para Linux que é fornecido no arquivo zip do instalador é a versão testada e suportada. Esteja ciente de que o<block ref="43b9d8ea18c48c3a64c4e37338fc668f" prefix=" " category="inline-code"></block> binário fornecido na<block ref="1e6add150fa42ebd470891f1547d31f0" prefix=" " category="inline-code"></block> parte do arquivo zip não é testado ou suportado.</block>
   <block id="b19b27d714b3d37b8bba665236cb96c0" category="section-title">Novidades em 22.01.1</block>
-  <block id="368b120a3b5f53a49dc3ab96ec9b8dbd" category="paragraph">A NetApp está continuamente melhorando e aprimorando seus produtos e serviços. Aqui estão alguns dos recursos mais recentes do Astra Trident. Para versões anteriores,<block ref="25da125dffad1d6323c21354bccf0203" category="inline-link-rx"></block>consulte .</block>
-  <block id="7072ec708b0ea7e3243747d8b79c0d20" category="admonition">Se você estiver atualizando de qualquer versão anterior do Trident e usar o Azure NetApp Files, o <block ref="d5189de027922f81005951e6efe0efd5" prefix="" category="inline-code"></block> parâmetro config agora é um campo único obrigatório.</block>
   <block id="41cf959adc98386b54829d71a6ed5d37" category="section-title">Correções</block>
   <block id="a98b2ebbcbb381d3abc81e2ecfb2054c" category="inline-link-macro">GitHub Edição nº 691</block>
   <block id="61465c1d4383dd4afdf168925e15e767" category="list-text">Corrigido o problema com a remoção de volumes em nós excluídos. (<block ref="5fee6ab43e8008edba54375694a29266" category="inline-link-macro-rx"></block>)</block>
@@ -3056,7 +3049,6 @@
   <block id="01539f4f1fd20792cbbae6bb0506cc20" category="paragraph">Depois de resolver o problema, você pode limpar a instalação da seguinte forma e, em seguida, executar o<block ref="430bf77bee6c59d385d4194f84c21b16" prefix=" " category="inline-code"></block> comando novamente:</block>
   <block id="d327e8f24b63b83e091dccdc48dd7b1b" category="sidebar">Documentos do Astra Trident</block>
   <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">Notas de lançamento</block>
-  <block id="93168a8084b3e838d2932c4734bd234e" category="sidebar">Versões anteriores</block>
   <block id="0460583622f03a52d7693094d6fa2452" category="sidebar">Conceitos</block>
   <block id="f14894e4c400a400c02367258a93029a" category="sidebar">Astra Trident para Docker</block>
   <block id="e08bfc79c5202517b3814efd6e82fb2c" category="sidebar">Atualize ou desinstale o Trident</block>
@@ -3067,4 +3059,5 @@
   <block id="324fb1352ffffb105d10013810c42896" category="sidebar">Objetos Kubernetes e Astra Trident</block>
   <block id="eb1f347fa6176ae2c9175df3bc414954" category="sidebar">Use o Astra Trident</block>
   <block id="cc4a0df2c635530d752308ab5a1c4b89" category="sidebar">Configurar um back-end do ANF</block>
+  <block id="9bbe247417ec112bd7f3be36a4035717" category="paragraph">A NetApp está continuamente melhorando e aprimorando seus produtos e serviços. Aqui estão alguns dos recursos mais recentes do Astra Trident.</block>
 </blocks>
