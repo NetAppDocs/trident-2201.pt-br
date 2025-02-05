@@ -52,7 +52,7 @@ sidebar:
   - section: trident-reco
   - section: trident-reference
   - title: Avisos legais
-    url: "/legal.html"
+    url: "/legal-notices.html"
 product-family:
   name: Astra
   repo: astra-family
